@@ -148,7 +148,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = ""
+    svgFavicon = "/img/favicons/favicon.ico"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
@@ -188,7 +188,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "developer_seung_woo@naver.com"
       # URL of avatar shown in home page
-      avatarURL = "/img/profile/selfie.jpg"
+      avatarURL = "/img/profile/야근곰.png"
       # title shown in home page (HTML format is supported)
       title = "junior Developer' blog 🧑🏻‍💻"
       # subtitle shown in home page (HTML format is supported)
@@ -470,7 +470,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Publisher info
       [params.page.seo.publisher]
         name = "seungwoo"
-        logoUrl = "/img/profile/selfie.jpg"
+        logoUrl = "/img/profile/야근곰.png"
 
   # TypeIt config
   [params.typeit]
@@ -494,9 +494,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Site SEO config
   [params.seo]
     # image URL
-    image = "/img/profile/selfie.jpg"
+    image = "/img/profile/야근곰.png"
     # thumbnail URL
-    thumbnailUrl = "/img/profile/selfie.jpg"
+    thumbnailUrl = "/img/profile/야근곰.png"
 
   # Analytics config
   [params.analytics]
@@ -687,7 +687,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/img/profile/selfie.jpg"
+          avatarURL = "/img/profile/야근곰.jpg"
           title = "junior Developer' blog 🧑🏻‍💻"
           subtitle = "Hi There I'm Seung Woo :)"
           typeit = true
@@ -780,7 +780,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.zh-kr.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/img/profile/selfie.jpg"
+          avatarURL = "/img/profile/야근곰.png"
           title = "주니어 개발자 블로그 🧑🏻‍💻"
           subtitle = "안녕하세요. 저는 승우입니다. :)"
           typeit = true

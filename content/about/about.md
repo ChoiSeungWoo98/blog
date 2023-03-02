@@ -1,9 +1,9 @@
 ---
 title: "About"
-date: 2023-03-02T00:54:51+09:00
+date: 2023-03-02T01:04:49+08:00
 draft: false
-description: "About LoveIt"
-images: ["/Apple-Devices-Preview.png"]
+description: "About"
+images: []
 
 lightgallery: true
 
