@@ -178,35 +178,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       appID = ""
       searchKey = ""
 
-#<div class="home-avatar">
-#  <div class="sub-title" style="position: absolute;">
-#    <h3>#꾸준히 공부하기</h3>
-#    <h3>#여러 분야 책 읽기</h3>
-#    <h3>#건강, 휴식, 여행</h3>
-#    <h3>#발전! 개선! 도전!</h3>
-#  </div>
-#  <div style="position: absolute">
-#    <a class="character-webp"></a>
-#</div>
-#<style>
-#  .character-webp {
-#    zoom: 0.7;
-#    margin-left: 690px;
-#    display: block;
-#    width: 360px;
-#    height: 400px;
-#    background-position: 0px -100px;
-#    background-repeat: no-repeat;
-#    background-image: url('/img/character/Character-joke.webp');
-#  }
-#  .sub-title > h3 {
-#    text-align: left;
-#    font-size: 30px;
-#    margin-left: -60px;
-#    margin-top: 25px;
-#    opacity: 30%;
-#  }
-#</style>
+
   # Home page config
   [params.home]
     # amount of RSS pages
