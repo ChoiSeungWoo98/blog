@@ -1,6 +1,5 @@
 {{- $profile := .Site.Params.home.profile -}}
-<div class="home-profile">
-    <div class="home-avatar">
+    <div>
         <div class="sub-title" style="position: absolute;">
             <h3>#꾸준히 공부하기</h3>
             <h3>#여러 분야 책 읽기</h3>
@@ -10,6 +9,18 @@
         <div class="div-character-webp">
             <a class="character-webp"></a>
         </div>
+    </div>
+    <div class="home-profile">
+    <div class="home-avatar">
+<!--        <div class="sub-title" style="position: absolute;">-->
+<!--            <h3>#꾸준히 공부하기</h3>-->
+<!--            <h3>#여러 분야 책 읽기</h3>-->
+<!--            <h3>#건강, 휴식, 여행</h3>-->
+<!--            <h3>#발전! 개선! 도전!</h3>-->
+<!--        </div>-->
+<!--        <div class="div-character-webp">-->
+<!--            <a class="character-webp"></a>-->
+<!--        </div>-->
     {{- $avatar := $profile.avatarURL -}}
     {{- with $profile.gravatarEmail -}}
     {{- $avatar = md5 . | printf "https://www.gravatar.com/avatar/%v?s=240&d=mp" -}}
@@ -135,10 +146,11 @@
     @media (max-width: 1149px) {
         .div-character-webp{
             position: relative;
+            text-align: right;
         }
         .character-webp {
             zoom: 0.7;
-            margin-left: 150px;
+            margin-right: -120px;
             display: inline-block;
             width: 360px;
             height: 400px;
@@ -149,7 +161,7 @@
 
         .sub-title{
             display: inline-block;
-            margin-left: -130px;
+            text-align: left;
         }
 
         .sub-title > h3 {
@@ -158,6 +170,15 @@
             margin-left: -60px;
             margin-top: 25px;
             opacity: 30%;
+        }
+    }
+
+    @media (max-width: 680px) {
+        .sub-title {
+            margin-left: 80px;
+        }
+        .sub-title > h3{
+            white-space: nowrap;
         }
     }
 
