@@ -3,8 +3,8 @@ title: "깃 블로그를 작성하기 전 다짐"
 date: 2023-03-01T21:50:49+09:00
 draft: false
 author: "choiseU"
-tags: ["diary", "jounal"]
-categories: ["diary"]
+tags: ["Diary", "Jounal"]
+categories: ["Diary"]
 ---
 
 처음 써보는 깃 블로그 게시글 입니다.  
