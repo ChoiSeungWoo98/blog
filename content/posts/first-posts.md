@@ -1,24 +1,10 @@
 ---
-weight: 1
 title: "깃 블로그를 작성하기 전 다짐"
 date: 2023-03-01T21:50:49+09:00
-lastmod: 2023-03-04T16:45:40+08:00
 draft: false
 author: "choiseU"
-authorLink: "https://choiseungwoo98.github.io/"
-description: "This article shows the basic Markdown syntax and format."
-images: []
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
-
 tags: ["diary", "jounal"]
 categories: ["diary"]
-
-lightgallery: true
- 
-toc:
-  auto: false
 ---
 
 처음 써보는 깃 블로그 게시글 입니다.  
