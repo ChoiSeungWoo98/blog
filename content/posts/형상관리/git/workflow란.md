@@ -202,4 +202,4 @@ pull request는 코드 리뷰의 시작점
 - [다양한 Workflow](https://lhy.kr/git-workflow)
 - [centralized-workflow 이미지](https://gogojuni.dev/centralized-workflow/)
 - [feature-branch-workflow 이미지](https://gogojuni.dev/feature-branch-workflow/)
-- [다양한 Workflow](https://lhy.kr/git-workflow)
+- [forking-workflow](https://gogojuni.dev/forking-workflow/)
