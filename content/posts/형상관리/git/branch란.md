@@ -1,12 +1,12 @@
 ---
-title: "branch란?"
+title: "branch가 궁금하다.."
 date: 2023-03-05T00:40:51+09:00
 draft: false
 author: "choiseU"
 tags: ["Git", "Branch"]
 categories: ["Git"]
 ---
-## 브랜치란?
+## 브랜치??
 ***
 여러 개발자들이 **동시에 다양한 작업을 할 수 있게 만들어 주는 기능**이 바로 브랜치(Branch) 이다.  
 각자 **독립적인 작업 영역(저장소) 안에서 마음대로 소스코드를 변경**할 수 있다.  

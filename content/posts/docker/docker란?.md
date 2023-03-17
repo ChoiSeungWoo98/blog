@@ -1,5 +1,5 @@
 ---
-title: "Docker란"
+title: "Docker가 궁금하다.."
 date: 2023-03-17T01:03:57+09:00
 draft: false
 author: "choiseU"
@@ -15,7 +15,7 @@ categories: ["Docker"]
 
 <img src="/img/posts/docker/docker.png">
 
-## Docker란?
+## Docker??
 ***
 **컨테이너 기반의 오픈소스 가상화 플랫폼**  
 - **다양한 프로그램, 실행 환경을 컨테이너로 추상화하고 동일한 인터페이스를 제공하여 프로그램 배포 및 관리를 단순화** 한다.
@@ -29,7 +29,7 @@ categories: ["Docker"]
 
 <div style="height: 50px;"></div>
 
-## 컨테이너란?
+## 컨테이너??
 ***
 - 호스트 OS상에 논리적인 구획(컨테이너)을 만들고, 어플리케이션을 작동시키기 위해  
   필요한 라이브러리나 어플리케이션 등을 하나로 모아, 마치 별도의 서버인 것처럼 사용할 수 있게 만든 것  

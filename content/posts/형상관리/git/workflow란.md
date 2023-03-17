@@ -1,5 +1,5 @@
 ---
-title: "Workflow란?"
+title: "Workflow가 궁금하다.."
 date: 2023-03-05T04:39:34+09:00
 draft: false
 author: "choiseU"
@@ -8,7 +8,7 @@ categories: ["Git"]
 ---
 > workflow는 어떤 것이 있고 어떤 방법론이 있는지 조사해보자고 마음을 먹어 작성하게되었다. 
 
-## WorkFlow란?
+## WorkFlow??
 ***
 Git은 브랜치로 작업을 관리한다.  
 팀에서 브랜치를 어떻게 사용할 지에 대한 규칙을 Workflow라고 한다.  
