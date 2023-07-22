@@ -1,5 +1,5 @@
 ---
-title: "Spring Boot, Websocket + STOMP 사용하기"
+title: "서버에서 클라이언트로 이벤트를 보내는 4가지 방법"
 date: 2023-05-06T19:29:42+09:00
 draft: false
 author: "choiseU"
@@ -20,8 +20,8 @@ categories: ["WebSocket"]
 - http 오버헤드가 발생한다는 큰 단점. 하지만 일정 시간 갱신되는 서버 데이터의 경우 유용.
 
 <details>
-    <summary style="color: deepskyblue">Polling 방식</summary>
-    <img src="/img/posts/spring-boot/polling.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">Polling 방식</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/java/webSocket/Polling.png">
 </details>
 
 ### 2. Long Polling
@@ -32,8 +32,8 @@ categories: ["WebSocket"]
 - 다수의 클라이언트에게 동시에 이벤트가 발생될 경우 클라이언트가 바로 접속을 시도하면서 서버 부담이 급증
 
 <details>
-    <summary style="color: deepskyblue">Polling 방식</summary>
-    <img src="/img/posts/spring-boot/long-polling.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">Long Polling 방식</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/java/webSocket/Long_Polling.png">
 </details>
 
 ### 3. WebSocket
@@ -44,8 +44,8 @@ categories: ["WebSocket"]
 - 단, websocket 프로토콜을 처리하기 위한 전이중 연결과 새로운 웹소켓 서버 필요
 
 <details>
-    <summary style="color: deepskyblue">Polling 방식</summary>
-    <img src="/img/posts/spring-boot/WebSocket.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">WebSocket 방식</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/java/webSocket/WebSocket.png">
 </details>
 
 ### 4. SSE(Server-Sent-Events)
@@ -56,14 +56,14 @@ categories: ["WebSocket"]
 - IE는 기본 미지원이지만, polyFill을 이용할 경우 IE를 포함한 크로스브라우징 가능
 
 <details>
-    <summary style="color: deepskyblue">Polling 방식</summary>
-    <img src="/img/posts/spring-boot/long-polling.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">SSE(Server-Sent Event) 방식</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/java/webSocket/Server-Sent-Events.png">
 </details>
 
 <div style="height: 50px;"></div>
 
+## WebSocket + Stomp를 이용하여 서버와 양방향 통신
+[다음 게시물은 WebSocket과 Stomp를 이용하여 서버와 양방향 통신을 하는 방법에 대해 스몰 모듈 프로젝트를 만들고자 한다.](https://ChoiSeungWoo98.github.io/websocket/)
 
 ## 포스트 작성 시 참고한 링크
 - [서버에서 클라이언트로 이벤트를 보내는 4가지 방법](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-Polling-Long-Polling-Server-Sent-Event-WebSocket-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC)
-- [형상관리란 - 2](https://sujinnaljin.medium.com/software-engineering-%ED%98%95%EC%83%81-%EA%B4%80%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-932d14f6f341)
-- [SVN, GIT 차이점](https://s-yeonjuu.tistory.com/53)

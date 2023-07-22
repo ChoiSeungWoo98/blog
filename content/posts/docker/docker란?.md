@@ -1,5 +1,5 @@
 ---
-title: "Docker가 궁금하다.."
+title: "Docker는 뭘까?"
 date: 2023-03-17T01:03:57+09:00
 draft: false
 author: "choiseU"
@@ -23,8 +23,8 @@ categories: ["Docker"]
 
 
 <details>
-    <summary style="color: deepskyblue">Linux 커널의 도커 엔진</summary>
-    <img src="/img/posts/docker/docker_engine.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">Linux 커널의 도커 엔진</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/docker/docker_engine.png">
 </details>
 
 <div style="height: 50px;"></div>

@@ -1,5 +1,5 @@
 ---
-title: "Merge와 Rebase가 궁금하다.."
+title: "Merge와 Rebase 차이"
 date: 2023-03-05T04:30:49+09:00
 draft: false
 author: "choiseU"
@@ -40,8 +40,8 @@ merge
 - 존재하는 브랜치가 변경되지 않음.
 - 새로운 merge commit을 생성.
 <details>
-    <summary style="color: deepskyblue">git merge</summary>
-    <img src="/img/posts/형상관리/git/merge.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">git merge</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/형상관리/git/merge.png">
 </details>
 
 rebase
@@ -51,8 +51,8 @@ rebase
 - 즉, rebase는 어떤 특정 브랜치의 커밋 이력을 base로 재정렬되면서 해쉬 ID가 바뀜
 
 <details>
-    <summary style="color: deepskyblue">git rebase</summary>
-    <img src="/img/posts/형상관리/git/rebase.png">
+    <summary style="margin-left: 30px; color: rgba(113, 187, 222, 1); cursor: pointer;">git rebase</summary>
+    <img style="margin-left: 30px; width: 500px;" src="/img/posts/형상관리/git/rebase.png">
 </details>
 
 <div style="height: 50px;"></div>
@@ -63,7 +63,7 @@ master브랜치로 merge만 한다면 엄청나게 복잡한 git history를 볼 
 rebase를 하여 **작업 순서대로 history를 관리하고 불필요한 병합 커밋을 제거**할 수 있다.
 
 <details>
-    <summary style="color: deepskyblue">merge와 rebase history 비교</summary>
+    <summary style="color: rgba(113, 187, 222, 1); cursor: pointer;">merge와 rebase history 비교</summary>
     <img src="/img/posts/형상관리/git/merge_disadvantage.png">
 </details>
 
