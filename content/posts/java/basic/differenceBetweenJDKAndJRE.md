@@ -20,7 +20,7 @@ categories: ["Java"]
 - 이미지를 먼저 확인 후 본격적으로 들어가보자..!
 
 <details>
-    <summary style="color: rgba(113, 187, 222, 1); margin-left: 30px;">JDK와 JRE 그리고 JVM</summary>
+    <summary style="color: rgba(113, 187, 222, 1); margin-left: 30px; cursor: pointer;">JDK와 JRE 그리고 JVM</summary>
     <img style="margin-left: 30px; width: 500px" src="/img/posts/java/basic/differenceBetweenJDKAndJRE.png">
 </details>
 <div style="height: 100px;"></div>
@@ -89,7 +89,12 @@ categories: ["Java"]
 - JVM이 메모리를 관리하는 프로세스
 - 사용하지 않는 메모리를 지속적으로 찾아 제거해 효육적인 메모리 관리
 
-<img style="margin-left: 30px; width: 500px" src="/img/posts/java/basic/jvm.png">
+
+<details>
+  <summary style="color: rgba(113, 187, 222, 1); margin-left: 30px; cursor: pointer;">가비지 컬렉션</summary>
+  <img style="margin-left: 30px; width: 500px" src="/img/posts/java/basic/jvm.png">
+</details>
+
 <div style="height: 100px;"></div>
 
 ## JIT(Just In Time Compilation) 방식
@@ -105,7 +110,12 @@ categories: ["Java"]
 - 인터프리터 방식는 코드를 한 줄씩 중간 코드인 바이트 코드로 변환 후 실행
 - 컴파일링 방식는 코드 실행 전, 소스 코드를 한번에 기계어로 변환 후 실행
 
-<img style="margin-left: 30px; width: 500px" src="/img/posts/java/basic/compiler.jpeg">
+<details>
+  <summary style="color: rgba(113, 187, 222, 1); margin-left: 30px; cursor: pointer;">컴파일 기법</summary>
+  <img style="margin-left: 30px; width: 500px" src="/img/posts/java/basic/compiler.jpeg">
+</details>
+
+
 <div style="height: 25px;"></div>
 
 ### 3. Java 컴파일 기법
