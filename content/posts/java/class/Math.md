@@ -3,7 +3,7 @@ title: "[Java] Math 클래스"
 date: 2023-08-19T17:49:27+09:00
 draft: false
 author: "choiseU"
-tags: ["Java-Basic", "Java", "Naming", "Convention"]
+tags: ["Java-Basic", "Java", "Math", "Class"]
 categories: ["Java"]
 ---
 > 커리어리라는 어플을 보다가 주니어 자바 개발자를 위한 100가지 질문을 보게 되었다.  
