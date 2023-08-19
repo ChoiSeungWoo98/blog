@@ -1,5 +1,5 @@
 ---
-title: "branch가 자세히 뭘까?"
+title: "[Git] branch가 자세히 뭘까?"
 date: 2023-03-05T00:40:51+09:00
 draft: false
 author: "choiseU"

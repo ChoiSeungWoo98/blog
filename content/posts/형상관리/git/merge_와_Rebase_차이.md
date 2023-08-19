@@ -1,5 +1,5 @@
 ---
-title: "Merge와 Rebase 차이"
+title: "[Git] Merge와 Rebase 차이"
 date: 2023-03-05T04:30:49+09:00
 draft: false
 author: "choiseU"

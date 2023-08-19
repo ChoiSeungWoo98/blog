@@ -1,5 +1,5 @@
 ---
-title: "JDK와 JRE의 차이 그리고 JIT, JVM"
+title: "[Java] JDK와 JRE의 차이 그리고 JIT, JVM"
 date: 2023-07-21T19:29:42+09:00
 draft: false
 author: "choiseU"

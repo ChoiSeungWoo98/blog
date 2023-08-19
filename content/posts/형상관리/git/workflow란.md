@@ -1,5 +1,5 @@
 ---
-title: "Workflow? 작업 방식?"
+title: "[Git] Workflow? 작업 방식?"
 date: 2023-03-05T04:39:34+09:00
 draft: false
 author: "choiseU"

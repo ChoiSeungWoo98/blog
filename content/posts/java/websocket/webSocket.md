@@ -1,5 +1,5 @@
 ---
-title: "Spring Boot, Websocket + STOMP 사용하기"
+title: "[Java] Spring Boot, Websocket + STOMP 사용하기"
 date: 2023-05-06T19:29:42+09:00
 draft: false
 author: "choiseU"
