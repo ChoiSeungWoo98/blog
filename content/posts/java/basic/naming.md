@@ -6,9 +6,9 @@ author: "choiseU"
 tags: ["Java-Basic", "Java", "Naming", "Convention"]
 categories: ["Java"]
 ---
-> 프로젝트를 하다보면 각자 다른 네이밍을 사용하다 보니 다른 사람이 작업한 코드를 보면 헷갈릴 때가 있다.
-> 그래서 나온것이 표준 네이밍 규칙이며 보통 권장사항 이다보니 많이 놓치고 있어서 한번 정리해보려 한다!
-> 오늘 정리할 네이밍 규칙은 Java 이다.
+> 프로젝트를 하다보면 각자 다른 네이밍을 사용하다 보니 다른 사람이 작업한 코드를 보면 헷갈릴 때가 있다.  
+> 그래서 나온것이 표준 네이밍 규칙이며 보통 권장사항 이다보니 많이 놓치고 있어서 한번 정리해보려 한다!  
+> 오늘 정리할 네이밍 규칙은 Java 이다.  
 
 ## 1. 네이밍 규칙이란?
 ***
@@ -147,7 +147,7 @@ final class Exam {
     private String name;
 
     // 이름 입력
-    public setName(String name) {
+    public setName(String name) {스
         this.name = name;
     }
 
