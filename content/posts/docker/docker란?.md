@@ -99,7 +99,7 @@ $ docker exec -it mariadb mysql -u root -p
 
 <div style="height: 50px;"></div>
 
-### DataGrip 연결
+## DataGrip 연결
 ***
 아래 순서대로 진행하면 연결 가능하다!!!
 
