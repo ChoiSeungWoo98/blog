@@ -199,6 +199,3 @@ categories: ["KakaoTechBootCamp", "Linux"]
 - find : 파일 시스템에서 파일과 디렉토리 검색(find {path} -name {fileName})
 - service : 서비스 시작, 중지, 재시작, 상태 확인 등을 수행(service {serviceName} {start / stop / restart / status / --status-all})
 - ip addr : 네트워크 인터페이스와 IP 주소 관리 및 사용
-
-
-<div style="height: 50px;"></div>
