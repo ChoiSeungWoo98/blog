@@ -1,7 +1,7 @@
 ---
 title: "AWS 기초 실습"
 date: 2024-07-07T23:03:57+09:00
-draft: false
+draft: true
 author: "choiseU"
 tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "VM", "Storage", "DB"]
 categories: ["KakaoTechBootCamp", "AWS"]
