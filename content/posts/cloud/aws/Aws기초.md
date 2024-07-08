@@ -7,11 +7,12 @@ tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "VM", "Storage", "DB"]
 categories: ["KakaoTechBootCamp", "AWS"]
 ---
 > 오늘은 AWS 개인미션 실습을 진행해보고자 한다.  
-> 가장 기초적인 vm, storage, db를 생성해보고 사용해보는 미션이었다.
+> 가장 기초적인 vm, storage, db를 생성해보고 사용해보는 미션이었다.  
 > AWS에서 EC2, S3, RDS를 이용해서 각각 AM, Storage, DB를 만들어 보고자 한다.
 
 ## VM(Virtual Machine : 가삼 머신)
 *** 
+
 
 [//]: # (- AWS에서 VM은 EC2에서 )
 
