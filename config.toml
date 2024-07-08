@@ -1,6 +1,7 @@
 baseURL = "https://choiseungwoo98.github.io/"
 
 relativeURLs = false
+uglyURLs = true
 
 # theme
 theme = "LoveIt"

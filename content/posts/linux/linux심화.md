@@ -1,6 +1,6 @@
 ---
 title: "Linux 심화"
-date: 2024-07-08T22:03:57+09:00
+date: 2024-07-09T00:32:35+09:00
 draft: false
 author: "choiseU"
 tags: ["KakaoTechBootCamp", "리눅스", "CGroup", "NameSpace", "Chroot", "UDS", "OverlayFS",]
