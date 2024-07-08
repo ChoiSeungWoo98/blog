@@ -21,7 +21,6 @@ categories: ["KakaoTechBootCamp", "AWS"]
 
 [//]: # ()
 [//]: # (## Storage : 저장공간)
-
 [//]: # (*** )
 
 [//]: # (- 클라우드 서비스&#40;IaaS : Infrastructure as a Service 혹은 CSP : Cloud Service Provider&#41;)
