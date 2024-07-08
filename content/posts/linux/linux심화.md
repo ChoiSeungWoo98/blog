@@ -78,7 +78,6 @@ sudo eegexec -g memory:/memorylimit stress --vm-byte 1024M --vm 1 --timeout 30s 
 sudo cgdelete -g memory:/memorylimit
 ```
 
-
 <div style="height: 50px;"></div>
 
 ## NameSpace
@@ -355,6 +354,3 @@ sudo rm -rf /lower /upper /merged /work
 # /lower, /upper, /merged, /work 디렉토리와 그 안의 모든 파일을 강제로 삭제합니다.
 
 ```
-
-<div style="height: 50px;"></div>
-
