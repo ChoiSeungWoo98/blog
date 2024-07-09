@@ -85,6 +85,7 @@ sudo cgdelete -g memory:/memorylimit
 #### 개념
 - 프로세스가 시스템 리소스를 격리하여 독립된 환경에서 실행되도록 하는 기술
 - 컨테이너 기술에서 중요하게 사용
+
 #### 종류
 - Mount Namespace : 파일 시스템 마운트를 격리하여 각각 독립적인 파일 시스템 트리를 갖고 있다.
 - Process ID Namespace : 프로세스 ID 격리하고 독립된 프로세스 ID 공간을 가지므로, 네임스페이스 마다 동일한 PID를 가질수 있다.
