@@ -1,14 +1,14 @@
 ---
 title: "Docker 기초"
-date: 2024-07-09T16:16:44+09:00
+date: 2024-07-08T16:16:44+09:00
 draft: false
 author: "choiseU"
 tags: ["KakaoTechBootCamp", "BootCamp", "Docker"]
 categories: ["KakaoTechBootCamp", "Docker"]
 ---
-> 기존에 혼자 Docker에 대해 잠깐 공부한 적 있지만 심도있게 다루지는 않았습니다.
-> 카카오 테크 부트캠프를 시작하면서 클라우드 수업을 듣기 시작했고
-> docker는 매우 중요한 부분이라 생각해 다시 정리하면서 복습하고자 합니다.
+> 기존에 혼자 Docker에 대해 잠깐 공부한 적 있지만 심도있게 다루지는 않았습니다.  
+> 카카오 테크 부트캠프를 시작하면서 클라우드 수업을 듣기 시작했고  
+> docker는 매우 중요한 부분이라 생각해 다시 정리하면서 복습하고자 합니다.  
 
 ## Docker
 ***

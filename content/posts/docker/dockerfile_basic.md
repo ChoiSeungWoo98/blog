@@ -6,8 +6,8 @@ author: "choiseU"
 tags: ["KakaoTechBootCamp", "BootCamp", "Docker"]
 categories: ["KakaoTechBootCamp", "Docker"]
 ---
-> 어제는 도커의 개념과 동작 방식에 대해 정리하였습니다.
-> 오늘은 docker를 실질적으로 사용해보면서 필요한 내용을 정리해보고자 합니다.
+> 어제는 도커의 개념과 동작 방식에 대해 정리하였습니다.  
+> 오늘은 docker를 실질적으로 사용해보면서 필요한 내용을 정리해보고자 합니다.  
 
 ## Dockerfile
 ***
