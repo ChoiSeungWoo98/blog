@@ -194,7 +194,7 @@ hostname
 #### 사용법
 ```shell
 # /mychroot 디렉토리 아래에 여러 디렉토리를 한번에 생성
-sudo mkdir -p /mychroot/{bin,lib,lib64,dev,etc,proc,sys}
+sudo mkdir -p /mychroot/<bin,lib,lib64,dev,etc,proc,sys>
 
 # /bin 디렉토리의 모든 파일과 /bin/bash, /bin/ls, /bin/cat이 의존하는 모든 라이브러리 파일을 디렉토리 구조를 유지한 채 /mychroot로 복사
 sudo cp /bin/* /mychroot/bin/

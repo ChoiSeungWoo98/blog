@@ -160,42 +160,42 @@ categories: ["KakaoTechBootCamp", "Linux"]
 ## 명령어 정리
 ***
 - sudo : root(다른 사용자)의 명령 실행(sudo apt-get update)
-- su : 사용자 변경(su {userName})
-- adduser : 사용자 추가(adduser {userName})
-- cat : 파일 내용 출력, 파일 연결 후 출력(cat {fileName})
-- usermod : 사용자 속성 변경(usermod -aG {groupName} {userName})
-- addgroup : 새로운 그룹 추가(addgroup {groupName})
-- vim : 강력한 텍스트 편집기(vim {fileName})
+- su : 사용자 변경(su <userName>)
+- adduser : 사용자 추가(adduser <userName>)
+- cat : 파일 내용 출력, 파일 연결 후 출력(cat <fileName>)
+- usermod : 사용자 속성 변경(usermod -aG <groupName> <userName>)
+- addgroup : 새로운 그룹 추가(addgroup <groupName>)
+- vim : 강력한 텍스트 편집기(vim <fileName>)
 - echo : 문자열 출력(echo "Hello world!")
 - cd(change Directory) : 디렉토리 변경(cd ..)
-- chmod : 권한 변경(chmod {775 : 권한} {fileName})
+- chmod : 권한 변경(chmod <775 : 권한> <fileName>)
 - ls -al(ll) : 자세한 내용을 포함한 목록 표시
 - ls : 디렉토리 내용 나열
-- mv : 파일, 디렉토리 이름 변경 혹은 이동(mv {temp2 : 기존이름} {temp : 바꿀 이름})
-- rm : 파일, 디렉토리 삭제(rm {fileName})
+- mv : 파일, 디렉토리 이름 변경 혹은 이동(mv <temp2 : 기존이름> <temp : 바꿀 이름>)
+- rm : 파일, 디렉토리 삭제(rm <fileName>)
 - bash : bash 셀 실행
 - exit : 현재 스크립트 종료
 - passwd : 사용자 비밀번호 변경
 - shadow : /etc/shadow 파일에 저장된 암호화된 비밀번호 관리
 - hosts : /etc/hosts 파일 관리
-- apt-get : 데비안 기반 시스템에서 패키지 관리(apt-get {install : 동작} {fileName})
-- export : 셸 환경 변수 설정(export PATH=$PATH:{/new/path})
+- apt-get : 데비안 기반 시스템에서 패키지 관리(apt-get <install : 동작> <fileName>)
+- export : 셸 환경 변수 설정(export PATH=$PATH:</new/path>)
 - lsblk : 블록 장치 목록 표시
 - df -TH : 파일 시스템의 디스크 공간 사용량 표사
-- mkdir : 디렉토리 생성(mkdir {directoryName})
-- rmdir : 빈 디렉토리 삭제(rmdir {directoryName})
-- touch : 빈 파일 생성 or 기존 파일 타임 스탬프 변경(touch {fileName})
-- head : 파일의 처음 몇 줄 출력(head {fileName})
-- tail : 파일의 마지막 몇 줄 출력(tail {fileName})
+- mkdir : 디렉토리 생성(mkdir <directoryName>)
+- rmdir : 빈 디렉토리 삭제(rmdir <directoryName>)
+- touch : 빈 파일 생성 or 기존 파일 타임 스탬프 변경(touch <fileName>)
+- head : 파일의 처음 몇 줄 출력(head <fileName>)
+- tail : 파일의 마지막 몇 줄 출력(tail <fileName>)
 - pwd : 현재 경로 출력
 - whoami : 현재 사용자 이름 출력
 - top : 실시간 시스템 상태 모니터링
 - df -h : 디스크 사용량을 읽기 쉽게 표시
-- du -h : 디렉토리 사용량을 읽기 쉽게 표시(du -h {directoryName})
+- du -h : 디렉토리 사용량을 읽기 쉽게 표시(du -h <directoryName>)
 - ping : 네트워크 연결 상태 체크(ping www.google.com)
 - curl : 데이터 전송 및 가져오기(curl www.google.com)
 - ifconfig : 네트워크 인터페이스 구성 표시 및 변경
 - ps : 현재 실행중인 프로세스 목록 표시
-- find : 파일 시스템에서 파일과 디렉토리 검색(find {path} -name {fileName})
-- service : 서비스 시작, 중지, 재시작, 상태 확인 등을 수행(service {serviceName} {start / stop / restart / status / --status-all})
+- find : 파일 시스템에서 파일과 디렉토리 검색(find <path> -name <fileName>)
+- service : 서비스 시작, 중지, 재시작, 상태 확인 등을 수행(service <serviceName> <start / stop / restart / status / --status-all>)
 - ip addr : 네트워크 인터페이스와 IP 주소 관리 및 사용

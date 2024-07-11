@@ -239,19 +239,19 @@ cat Dockerfile
 docker login
 
 # 이미지 빌드
-docker -f Dockerfile -t {user-name}/{repo-name} .
+docker -f Dockerfile -t <user-name>/<repo-name> .
 
 # 내 레포지토리에 이미지 생성
-docker push {user-name}/{repo-name}
+docker push <user-name>/<repo-name>
 
 # 실행 및 컨테이너 접속
-docker run -it {Container} /bin/bash
+docker run -it <Container> /bin/bash
 
 # Docker 객체에 대한 자세한 정보 출력
-docker inspect {Container_id or name}
+docker inspect <Container_id or name>
 
 # 이미지 실행 반복적으로
-docker run -d {image} sleep infinity
+docker run -d <image> sleep infinity
 
 # 실행되고 있는 컨테이너의 모든 아이디 값 가져오기
 docker ps -q
@@ -260,6 +260,6 @@ docker ps -q
 docker stop $(docker ps -q)
 
 # 생성한 레포지토리에서 이미지 내려받기
-docker pull {user-name}/{repo-name}
+docker pull <user-name>/<repo-name>
 ```
 <div style="height: 50px;"></div>
