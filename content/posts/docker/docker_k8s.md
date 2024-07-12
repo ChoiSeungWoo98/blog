@@ -6,7 +6,8 @@ author: "choiseU"
 tags: ["KakaoTechBootCamp", "BootCamp", "Docker", "K8S", "Kubernetes"]
 categories: ["KakaoTechBootCamp", "Docker"]
 ---
-> 여태까지 배운 내용에 대한 복습을 간단하게 진행해보고자 한다.  
+> 오늘은 실습보다 이론위주의 수업이었다.  
+> 쿠버네티스를 배우기 전 도커에 대해 간단하게 설명하고 들었던 것들을 정리하고자 한다.
 
 ## CRI(Container Runtime Interface)
 ***
