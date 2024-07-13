@@ -1,7 +1,7 @@
 ---
 title: "네트워크 복습"
 date: 2024-07-13T16:42:04+09:00
-draft: true
+draft: false
 author: "choiseU"
 tags: ["KakaoTechBootCamp", "네트워크", "복습"]
 categories: ["KakaoTechBootCamp", "네트워크"]
