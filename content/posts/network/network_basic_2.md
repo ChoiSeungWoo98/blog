@@ -1,5 +1,5 @@
 ---
-title: "네트워크 도메인, 네임서버, HTTPs"
+title: "네트워크 도메인, HTTPs"
 date: 2024-07-13T16:42:04+09:00
 draft: false
 author: "choiseU"
