@@ -113,22 +113,6 @@ categories: ["KakaoTechBootCamp", "Linux"]
 
 <div style="height: 50px;"></div>
 
-## 패키지 매니저
-***
-- APT
-  - Demian 계열에서 주로 사용하는 패키지 매니저
-    - Demian : 여러 파생 배포판의 기반(Ex : Ubuntu, Linux Mint 등)
-  - 패키지 설치 시 의존성 패키지도 자동 설치
-- YUM/DNF
-  - RHEL 계열에서 주로 사용하는 패키지
-    - RHEL(Red Hat Enterprise Linux) : 레드햇이 개발한 상용 리눅스 배포판, 주로 기업환경에서 사용되며 고성능, 안정성, 보안, 지원 서비스 제공
-  - 플러그인 시스템을 통해 기능 확장 가능
-  - YUM보다 DNF를 사용하는 추세
-
-<img style="margin-left: 30px; width: 500px;" src="/img/posts/linux/패키지매니저.png">
-
-<div style="height: 50px;"></div>
-
 ## 권한 및 소유자
 ***
 - 모든 파일 및 디렉토리는 사용자(User)와 그룹(Group)에 의해 소유(Ex : colton:KTB 라면 colton과 KTB에 속한 그룹의 소유)
