@@ -116,6 +116,7 @@ categories: ["KakaoTechBootCamp", "AWS"]
 <div style="height: 50px;"></div>
 
 ## 실습
+***
 LB 생성 순서
 1. VPC 생성
 2. 서브넷 생성(여러개)
@@ -126,7 +127,7 @@ LB 생성 순서
 7. 라우팅 테이블 생성(public, private)
 8. LB 생성
    - 타겟 그룹 생성
-***
+
 ```shell
 # 양쪽 서버에서 똑같이 진행
 # 퍼블릭 서버 접속
