@@ -3,7 +3,7 @@ title: "AWS IAM을 이용한 S3 실습"
 date: 2024-07-15T15:01:46+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "IAM", "S#"]
+tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "IAM", "S3"]
 categories: ["KakaoTechBootCamp", "AWS"]
 ---
 > 오늘은 AWS 첫번째 실습 시간이다.  
