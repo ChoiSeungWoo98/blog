@@ -69,7 +69,7 @@ categories: ["KakaoTechBootCamp", "AWS"]
 - destroy : 인프라 자원 제거
 
 #### 예제
-```
+```shell
 # CSP 설정
 provider "aws" {
     # 할당 지역 설정
@@ -121,32 +121,6 @@ output "instance_ip" {
 - 플레이북 작성 : 수행할 작업을 정의한 YAML 파일 작성
 - 작업 실행 : 플레이북 실행
 - 상태 확인 : 호스트 상태 및 관리
-
-#### 예제
-```shell
-# CSP 설정
-provider "aws" {
-    # 할당 지역 설정
-    region = "ap-northeast-2"
-}
-
-# 변수 설정
-variable "instance_count" {
-    # 기본 값 설정
-    default = 3
-}
-
-# CSP 내부에서 사용할 리소스 명칭
-resource "aws_instance" "example" {
-    ami = "ami-123456"
-    instance_type = "t2.micro"
-}
-
-# 오브젝트의 특정 항목을 파일로 출력
-output "instance_ip" {
-    value = aws_instance.example.public_ip
-}
-```
 
 <div style="height: 50px;"></div>
 
