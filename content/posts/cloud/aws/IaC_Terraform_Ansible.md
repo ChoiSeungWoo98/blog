@@ -47,13 +47,6 @@ categories: ["KakaoTechBootCamp", "AWS"]
 - 복구 능력 : 코드 기반 인프라는 장애 시 빠르게 복구 가능
 - 확장성 : 필요에 따라 쉽게 확장 및 축소 가능
 
-#### 실습(볼륨 확장)
-1. 
-
-```shell
-
-```
-
 <div style="height: 50px;"></div>
 
 ## Terraform
