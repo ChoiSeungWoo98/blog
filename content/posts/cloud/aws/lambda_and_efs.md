@@ -158,6 +158,4 @@ df -hT | grep efs
 5. cloudWatch 대시보드 - 경보상태 - 경보 생성 
 6. 지표 선택 - 인스턴스 - cpu - 지표  선택
 
-<div style="height: 50px;"></div>
-
 
