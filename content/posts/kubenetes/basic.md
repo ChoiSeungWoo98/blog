@@ -40,13 +40,12 @@ categories: ["Java"]
 <img style="margin-left: 60px; width: 500px;" src="/img/posts/kubenetes/cluster_node.png">
 
 #### 실습
+
+#### 실습 1
 - UTM 3개 생성 후 각각 접속
 ```shell
 # 쿠버네티스 설치
 sudo snap install microk8s --classic --channel=1.30
-
-# 설치 확인
-microk8s kubectl get pods -A
 
 # alias 등록
 alias kubectl='microk8s kubectl'
@@ -54,9 +53,43 @@ alias kubectl='microk8s kubectl'
 # 2번 생성해서 각각 접속
 microk8s add-node
 
-#연결 정보 확인
-microk8s kubectl get pods -A -o wide
-
+# Worker Node 연결 정보 확인
+kubectl get nodes
 ```
 
+#### 실습 2
+- Master에서 워커 노드로 분배해주기 때문에 별도 config 설정이 없다면 master에서 하지 못한다.
+```shell
+# 테스트 폴더 생성 및 접속
+mkdir kubenetes && cd kubenetes
+
+# pod, Replicaset, Deployment, Job, CornJob, Daemonset 생성
+vi <파일명>.yml
+
+# 생성한 파일 실행
+kubectl apply -f <파일명>
+
+# 생성한 정보 확인
+kubectl get <리소스> -A -o wide
+
+# 생성 안될 때 확인
+kubectl describe pod <pod 이름>
+```
+
+
+#### 실습 3
+- kubectl 명령어 익히기
+- 차이점 비교
+  - Create vs Apply
+    - Create : 리소스 새로 생성시 사용, 이미 존재하는 리소스를 업데이트하지 않음
+    - Apply : 리소스를 생성 혹은 업데이트시 사용, 변경 사항을 클러스터에 적용 시 유용
+  - Log vs Describe
+    - Log : Pod 로그를 출력해 디버깅 정보 제공
+    - Describe : 리소스 상태와 이벤트를 포함한 상세 정보 출력
+  - patch vs edit
+    - patch : 리소스를 Json이나 Yml 패치 형식으로 부분 업데이트 시 사용
+    - edit : 리소스를 직접 편집 시 사용, 편집 후 저장 시 변경사항 적용
+```shell
+# 테스트 폴더 생성 및 접속
+```
 <div style="height: 100px;"></div>
