@@ -16,3 +16,11 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+# 로봇 검색 허용
+enableRobotsTXT = true
+
+# 사이트맵 작성
+[sitemap]
+changefreq = "daily"
+filename = "sitemap.xml"
