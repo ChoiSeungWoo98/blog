@@ -1,13 +1,19 @@
 ---
 title: "[K8S] Kubernetes 기초"
+description: temp
 date: 2024-07-22T21:27:45+09:00
 author: "choiseU"
-tags: ["Kubernetes"]
-categories: ["Kubernetes"]
+image: img/title-images/kubernetes.png
+categories:
+  - Kubernetes
+tags:
+  - Kubernetes
 ---
 > 오늘은 드디어 그 유명한 쿠버네티스!!!  
 > 쿠버만 잘해도 반은 간다는데  
-> 화이팅! 부셔보자!!!  
+> 화이팅! 부셔보자!!!
+
+[//]: # (> 653×201)
 
 ## Kubenetes(K8S)
 ***

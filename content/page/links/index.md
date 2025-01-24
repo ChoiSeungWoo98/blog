@@ -14,20 +14,12 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+<a href="https://github.com/ChoiSeungWoo98">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white">
+</a>
 
-This page's frontmatter:
+<div style="height: 0px;"></div>
 
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+<a href="mailto:developer_seung_woo@naver.com">
+    <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link="/>
+</a>

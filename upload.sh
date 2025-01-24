@@ -11,5 +11,5 @@ git push
 # blog upload
 cd ..
 git add .
-git commit -m "$MESSAGE"
+git commit -m "$MESSAGE"ㅍㅍ
 git push
