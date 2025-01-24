@@ -1,10 +1,10 @@
 ---
-title: "Docker_conpose"
+title: "[Docker] Docker Compose에 대해"
 date: 2024-07-11T13:13:32+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "Docker"]
-categories: ["KakaoTechBootCamp", "Docker"]
+tags: ["Docker"]
+categories: ["Docker"]
 ---
 > 오늘은 docker compose에 대해 배웠습니다.  
 > 이론이 많지는 않았지만  

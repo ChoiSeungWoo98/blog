@@ -1,10 +1,10 @@
 ---
-title: "Linux 요약"
+title: "[Linux] Linux 요약"
 date: 2024-07-14T09:53:35+09:00
 draft: true
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "Linux", "복습"]
-categories: ["KakaoTechBootCamp", "Linux"]
+tags: ["Linux", "복습"]
+categories: ["Linux"]
 ---
 > 오늘은 주말이라 여태까지 배운 Linux에 대해  
 > 정리하면서 복습을 진행해보고자 한다.  

@@ -1,10 +1,10 @@
 ---
-title: "Dockerfile 기초"
+title: "[Docker] Dockerfile 기초"
 date: 2024-07-10T16:16:44+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "Docker"]
-categories: ["KakaoTechBootCamp", "Docker"]
+tags: ["Docker", "Dockerfile"]
+categories: ["Docker"]
 ---
 > 어제는 도커의 개념과 동작 방식에 대해 정리하였습니다.  
 > 오늘은 docker를 실질적으로 사용해보면서 필요한 내용을 정리해보고자 합니다.  

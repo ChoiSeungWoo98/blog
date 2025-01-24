@@ -1,10 +1,10 @@
 ---
-title: "Linux 기초"
+title: "[Linux] Linux 기초"
 date: 2024-07-05T22:03:57+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "Linux", "리눅스", "기초"]
-categories: ["KakaoTechBootCamp", "Linux"]
+tags: ["Linux", "리눅스", "기초"]
+categories: ["Linux"]
 ---
 > 리눅스에 대해 배웠다.  
 > 처음 알게된 명령어도 많았지만  

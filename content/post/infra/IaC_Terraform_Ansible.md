@@ -1,10 +1,10 @@
 ---
-title: "IaC 기초 및 Terraform, Ansible"
+title: "[IaC] IaC 기초 및 Terraform, Ansible"
 date: 2024-07-18T09:54:15+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "IaC", "Terraform", "Ansible"]
-categories: ["KakaoTechBootCamp", "AWS"]
+tags: ["AWS", "IaC", "Terraform", "Ansible"]
+categories: ["IaC"]
 ---
 > 오늘은 배포 자동화에 대해 배웠다.  
 > 거의 대부분의 프로젝트가 자동화를 사용하는 만큼 집중해서 잘 들어야지      

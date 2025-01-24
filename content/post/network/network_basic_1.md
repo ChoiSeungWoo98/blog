@@ -1,10 +1,10 @@
 ---
-title: "네트워크 개념"
+title: "[Network] 네트워크 개념"
 date: 2024-07-04T22:03:57+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "네트워크", "네트워크 개념"]
-categories: ["KakaoTechBootCamp", "네트워크"]
+tags: ["Network", ""]
+categories: ["Network"]
 ---
 > 네트워크에 대해 배웠는데 너무 모르겠다...  
 > 잘 따라 가려면 더욱 공부해야겠다..

@@ -1,10 +1,10 @@
 ---
-title: "aws에 EBS, Lambda와 efs"
+title: "[AWS] aws에 EBS, Lambda와 efs"
 date: 2024-07-17T11:42:15+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "Lambda", "EFS", "EBS"]
-categories: ["KakaoTechBootCamp", "AWS"]
+tags: ["AWS", "Lambda", "EFS", "EBS"]
+categories: ["AWS"]
 ---
 > 오늘은 EBS, 람다와 EFS에 대해 배웠다    
 > 잊지 않기 위해 복습 또 복습...

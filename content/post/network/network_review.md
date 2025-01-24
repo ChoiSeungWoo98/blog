@@ -1,10 +1,10 @@
 ---
-title: "네트워크 복습"
+title: "[Network] 네트워크 복습"
 date: 2024-07-13T22:42:04+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "네트워크", "복습"]
-categories: ["KakaoTechBootCamp", "네트워크"]
+tags: ["Network", "OSI"]
+categories: ["Network"]
 ---
 > 오늘은 주말이라 여태까지 배운 네트워크에 대해  
 > 정리하면서 복습을 진행해보고자 한다.  

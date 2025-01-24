@@ -1,10 +1,10 @@
 ---
-title: "쿠버네티스를 배우기 전 도커에 대한 이해"
+title: "[Docker] 쿠버네티스를 배우기 전 도커에 대한 이해"
 date: 2024-07-12T18:25:27+09:00
 draft: true
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "Docker", "K8S", "Kubernetes"]
-categories: ["KakaoTechBootCamp", "Docker"]
+tags: ["Docker", "K8S", "Kubernetes"]
+categories: ["Docker"]
 ---
 > 오늘은 실습보다 이론위주의 수업이었다.  
 > 쿠버네티스를 배우기 전 도커에 대해 간단하게 설명하고 들었던 것들을 정리하고자 한다.

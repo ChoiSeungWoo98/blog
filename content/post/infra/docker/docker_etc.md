@@ -1,10 +1,10 @@
 ---
-title: "Docker 이론"
+title: "[Docker] Docker 이론"
 date: 2024-07-12T14:25:27+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "Docker", "security"]
-categories: ["KakaoTechBootCamp", "Docker"]
+tags: ["Docker", "security"]
+categories: ["Docker"]
 ---
 > 오늘은 실습보다 이론위주의 수업이었다.  
 > 도커 보안에 대해 간단하게 설명하고 들었던 것들을 정리하고자 한다.  

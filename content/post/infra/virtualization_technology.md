@@ -1,10 +1,10 @@
 ---
-title: "가상화 기술"
+title: "[Virtualization] 가상화 기술"
 date: 2024-07-03T18:03:57+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "가상화기술", "IaaS", "PaaS", "SaaS"]
-categories: ["KakaoTechBootCamp", "가상화"]
+tags: ["Virtualization", "IaaS", "PaaS", "SaaS"]
+categories: ["Virtualization"]
 ---
 > 어제 어수선한 분위기 속에 첫날이 마무리되고  
 > 두번째 수업이 진행되었습니다.  

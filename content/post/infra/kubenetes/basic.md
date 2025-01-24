@@ -1,9 +1,9 @@
 ---
-title: "Basic"
+title: "[K8S] Kubernetes 기초"
 date: 2024-07-22T21:27:45+09:00
 author: "choiseU"
-tags: ["Java-Basic", "Java", "final"]
-categories: ["Java"]
+tags: ["Kubernetes"]
+categories: ["Kubernetes"]
 ---
 > 오늘은 드디어 그 유명한 쿠버네티스!!!  
 > 쿠버만 잘해도 반은 간다는데  

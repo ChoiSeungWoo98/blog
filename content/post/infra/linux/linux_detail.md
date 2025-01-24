@@ -1,10 +1,10 @@
 ---
-title: "Linux 심화"
+title: "[Linux] Linux 심화"
 date: 2024-07-08T22:32:35+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "리눅스", "CGroup", "NameSpace", "Chroot", "UDS", "OverlayFS",]
-categories: ["KakaoTechBootCamp", "Linux"]
+tags: ["리눅스", "CGroup", "NameSpace", "Chroot", "UDS", "OverlayFS",]
+categories: ["Linux"]
 ---
 > 리눅스에 대해 배웠다.  
 > 오늘은 실습이 주를 이뤘다.

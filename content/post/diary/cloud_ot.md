@@ -1,10 +1,10 @@
 ---
-title: "부트캠프 시작(클라우드 OT)"
+title: "[Diary] 부트캠프 시작(클라우드 OT)"
 date: 2024-07-02T22:03:57+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "서버이중화", "안정성vs효율성", "쿠버네티스", "클라우드경험"]
-categories: ["KakaoTechBootCamp", "클라우드"]
+tags: ["OT", "클라우드", "서버이중화", "안정성vs효율성", "쿠버네티스", "클라우드경험"]
+categories: ["KakaoTechBootCamp"]
 ---
 > 어제 OT를 잘 마치고 오늘 첫번째 수업 날 입니다!  
 > 오늘은 별다른 수업 없이 ZEP에 접속하고 노션(단체, 개인 목표를 작성)을 만들었습니다.

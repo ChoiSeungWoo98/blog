@@ -3,7 +3,7 @@ title: "[Blog] 깃 블로그 만드는 방법"
 date: 2023-03-04T14:16:49+09:00
 draft: false
 author: "choiseU"
-tags: ["Blog", "GitBlog", "Hugo"]
+tags: ["Blog", "Hugo"]
 categories: ["Blog"]
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: "클라우드 아키텍처"
+title: "[Infra] 아키텍처"
 date: 2024-07-03T22:03:57+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "클라우드아키텍처", "아키텍처"]
-categories: ["KakaoTechBootCamp", "클라우드"]
+tags: ["Architecture", "Cloud"]
+categories: ["Architecture"]
 ---
 > 어제 어수선한 분위기 속에 첫날이 마무리되고  
 > 두번째 수업이 진행되었습니다.  
 > 오늘은 클라우드 개론에 대해 배웠고 까먹지 않기 위해 정리해보고자 합니다.  
 
-## 클라우드 아키텍처
+## 아키텍처
 *** 
 - 애플리케이션을 실행할 기반이 되는 온라인 플랫폼을 제공할 목적으로 클라우드 구축에 필수적인 모든 구성 요소 및 기능을 연결하는 방식
 - 서비스를 구축할 때, 클라우드 서비스의 다양한 기능들을 이용하여 인프라 구축 그림을 그리는 것
 
 <div style="height: 50px;"></div>
 
-## 클라우드 아키텍처를 그리기 위한 배경지식들
+## 아키텍처를 그리기 위한 배경지식들
 *** 
 - OS(Operating System)
   - 하드웨어를 사용하기 위해 필요한 소프트웨어이다.

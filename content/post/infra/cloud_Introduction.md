@@ -1,10 +1,10 @@
 ---
-title: "클라우드 개념"
+title: "[Infra] 클라우드 개념"
 date: 2024-07-03T22:03:57+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "클라우드개념", "리소스", "가상화"]
-categories: ["KakaoTechBootCamp", "클라우드"]
+tags: ["클라우드개념", "리소스", "가상화"]
+categories: ["Cloud"]
 ---
 > 어제 어수선한 분위기 속에 첫날이 마무리되고  
 > 두번째 수업이 진행되었습니다.  

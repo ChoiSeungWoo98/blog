@@ -1,10 +1,10 @@
 ---
-title: "네트워크 도메인, HTTPs"
+title: "[Network] 네트워크 도메인, HTTPs"
 date: 2024-07-13T16:42:04+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "네트워크"]
-categories: ["KakaoTechBootCamp", "네트워크"]
+tags: ["Network", "Domain", "Https", "SSL"]
+categories: ["Network"]
 ---
 > 오늘은 주말이라 강좌로 올라와있는  
 > 네트워크 개념 잡기를 수강하고 정리하고자 한다.

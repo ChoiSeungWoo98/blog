@@ -1,10 +1,10 @@
 ---
-title: "AWS와 LB 실습"
+title: "[AWS] AWS와 LB 실습"
 date: 2024-07-15T15:01:46+09:00
 draft: false
 author: "choiseU"
-tags: ["KakaoTechBootCamp", "BootCamp", "AWS", "ec2"]
-categories: ["KakaoTechBootCamp", "AWS"]
+tags: ["AWS", "ec2"]
+categories: ["AWS"]
 ---
 > 오늘은 AWS 첫번째 실습 시간이다.  
 > EC2에서 VPC를 사용하고 public이랑 private를 열어  
