@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://choiseungwoo98.github.io/"
 languageCode = "en-us"
-title = "My Tech Blog 🧑🏻‍💻"
+title = "승우의 성장일지 🧑🏻‍💻"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
